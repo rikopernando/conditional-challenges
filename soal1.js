@@ -1,5 +1,5 @@
 var nama = "Riko"
-var peran = "Tabib"
+var peran = "Ksatria"
 
 if ((nama == "" && peran == "" ) || (nama == "" && peran != "")) {
 	console.log(`Nama Harus Diisi`)
